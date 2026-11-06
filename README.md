@@ -8,7 +8,9 @@ Auto Deafen for your background audio. When your auto-deafen mod deafens Discord
 - The Steam version of Geometry Dash
 - A mod that presses a key at your chosen percentage
 
-**Mega Hack v9** is the only mod this has been tested with, and your key is detected automatically. Other mods that press a key, such as [AutoDeafen+](https://geode-sdk.org/mods/okayscylla.autodeafenplus), should work too: the installer asks you to press the key.
+**Mega Hack v9** is the mod this was built for, and your key is detected automatically. An earlier version was tested in real runs with Mega Hack, but this exact version has only been tested with simulated key presses so far.
+
+Other mods that press a key, such as [AutoDeafen+](https://geode-sdk.org/mods/okayscylla.autodeafenplus), should work too, but haven't been tested. The installer asks you to press the key.
 
 Mods that talk to Discord directly without pressing a key, such as [AutoDeafen](https://geode-sdk.org/mods/lynxdeer.autodeafen), won't work.
 
