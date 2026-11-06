@@ -1,0 +1,31 @@
+# Apps to mute when Auto Deafen fires. Use the name of the app's .exe file, without ".exe".
+# Changes apply the next time it fires, with no restart.
+
+# Browsers
+brave
+chrome
+msedge
+firefox
+opera
+vivaldi
+arc
+zen
+librewolf
+waterfox
+floorp
+thorium
+
+# Music and video players
+spotify
+vlc
+Microsoft.Media.Player
+wmplayer
+AppleMusic
+iTunes
+foobar2000
+AIMP
+mpv
+mpc-hc64
+PotPlayerMini64
+TIDAL
+Deezer
