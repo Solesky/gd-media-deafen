@@ -1,6 +1,6 @@
 # GD Media Deafen
 
-Auto Deafen for your background audio. When your auto-deafen mod deafens Discord at a set percentage in Geometry Dash, this also pauses or mutes whatever you're listening to, like YouTube, Kick, Twitch, Spotify or a podcast. It all comes back when the mod undeafens, such as when you die or finish.
+Auto Deafen for your background audio. When your auto-deafen mod deafens Discord at a set percentage in Geometry Dash, this also pauses or mutes whatever you're listening to, like YouTube, Twitch, Spotify or a podcast. It all comes back when the mod undeafens, such as when you die or finish.
 
 ## What you need
 
